@@ -16,3 +16,44 @@ Now in order to get a job one needs excellent coding skills for data analysis su
 The person should learn Machine learning modelling and solve challenges including Regression and Classification datasets. 
 Kaggle is the best platform for such learning.
 
+leafers seedling style avatar for user Tushar Rath
+Tushar Rath
+3 years ago
+Posted 3 years ago. Direct link to Tushar Rath's post “Moreover to become a Data...”
+Moreover to become a Data Scientist one must harness the skills of a Data Analyst which is a predecessor to a DS. 
+Skills which a DA should posses includes fluency in any db language (SQL Server, MySQL, Oracle, etc) 
+along with excellent coding skills in any of the statistical language such as SAS, R and Python 
+(though a scripting language, also considered for statistical analysis using NumPy and SciPy)
+
+On Wings of Eagles
+9 months ago
+Posted 9 months ago. Direct link to On Wings of Eagles's post “I am currently pursuing a...”
+I am currently pursuing a career in data science. 
+You should understand the basic programming languages (Python, C, C++, and Java) and basic query languages like SQL, NoSQL, and R. 
+There are many other languages that can be learned. 
+It all depends on whom you work for and what their database (DB) structure is. 
+Knowledge of DB physical, logical, and analytical structure is also vital. 
+Query languages, like SQL, are used in conjunction with a programming language, like Python, to create the logic to interact with a DB. 
+There are many forms of data, thus many structures of DBs. 
+A good working knowledge of query and general programming languages is a good start to a career in data science, management, or analytics.
+
+Thais W. Nielsen
+7 years ago
+Posted 7 years ago. Direct link to Thais W. Nielsen's post “Is there any way to progr...”
+Is there any way to program a data-base localy on your PC, so it acts like a exl sheet? 
+and save it as a file out send out side of the PC? to a harddive, then put the harddive a way, then run it after some time and have the same data in it?
+
+greyleaf avatar for user Gregory G
+Gregory G
+7 years ago
+Posted 7 years ago. Direct link to Gregory G's post “Hmm, I believe if you set...”
+Great Answer
+Good Answer
+Hmm, I believe if you set up a local host on your computer (ex:
+WAMP for Windows
+MAMP for Mac
+LAMP for Linux
+XAMPP for all), you can make a database with phpMyAdmin, 
+and everything is stored locally on your machine, 
+and it will be saved to your hard drive, and you might even be able to export it although I'm not 100% sure.
+
